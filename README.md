@@ -6,5 +6,5 @@
  ## Run production
  npm run prod \
  cd .\build\
- npx serve\
+ npx serve
   
