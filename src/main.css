@@ -1,0 +1,18 @@
+.body {
+    padding:0;
+    margin:0;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+    background-color: honeydew;
+    height: 100vh;
+}
+
+
+
+
