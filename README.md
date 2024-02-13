@@ -4,7 +4,7 @@
  npm start
  
  ## Run production
- npm run prod
- cd .\build
- npx serve
+ npm run prod \
+ cd .\build\
+ npx serve\
   
