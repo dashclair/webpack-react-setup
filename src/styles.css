@@ -1,0 +1,27 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+    background-color: honeydew;
+    padding:20px;
+}
+
+.button {
+    display: flex;
+    gap:15px;
+    align-items: center;
+    background-color: pink;
+    border: 0;
+    border-radius: 10px;
+    color: white;
+    padding: 20px;
+    position:relative
+}
+
+.heart {
+    position: absolute;
+    top:105px;
+}
+
